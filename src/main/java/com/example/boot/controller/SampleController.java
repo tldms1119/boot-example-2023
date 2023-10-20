@@ -1,6 +1,6 @@
 package com.example.boot.controller;
 
-import com.example.boot.common.AppConfig;
+import com.example.boot.common.config.AppConfig;
 import com.example.boot.service.BookService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
